@@ -23,3 +23,4 @@ ex: VScode, netbeans,eclipse, intellij
 - Intellij: Oferece muitos recursos de inteligência para a agilidade de nosso desenvolvimento com sugestões de ações bem assertivas.
 
 - VS Code: Hoje muito utilizada por desenvolvedores que já atuam com nodeJs ou plataformas de front-end
+
