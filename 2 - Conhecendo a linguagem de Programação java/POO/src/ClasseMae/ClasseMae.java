@@ -1,0 +1,15 @@
+package ClasseMae;
+
+public class ClasseMae {
+    
+
+    ClasseMae(){
+
+    }
+    void metodo1(){
+        System.out.println("Metodo 1 da classe mae");
+    }
+    void metodo2(){
+        System.out.println("Metodo 2 da classe mae");
+    }
+}
